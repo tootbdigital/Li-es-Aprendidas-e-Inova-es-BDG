@@ -1,0 +1,8 @@
+{
+  "name": "BDG Inova+",
+  "description": "Sistema premium de Inteligência de Engenharia da BDG Construtora. Gestão de Inovações e Lições Aprendidas.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
